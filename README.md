@@ -1,1 +1,8 @@
 # VENTAS
+## DATOS PERSONALES<br>
+Nombre:Jhony Omar Jiménez Cruz<br>
+clave:11<br>
+Tecnología:PYTHON,PROGRAMA PYCHARM COMMUNITY,<br>
+Estructuras:ESTRUCTURAS DE CONTROL IF, OPERADORES,VARIABLES,CONCATENACIÓN,CONSTANTES,CÁLCULOS<br>
+Repositorio:CONTIENE LOS ARCHIVOS DE PYTHON PARA UN SISTEMA DE VENTAS<br>
+https://github.com/<username>/wiki<br>
